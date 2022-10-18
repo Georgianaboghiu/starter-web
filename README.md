@@ -11,3 +11,5 @@ As stated before we need to add some new text
 lalala
 Adding new text here
 ajkdfhhjgfdgfdhs
+
+2022 Git.training
