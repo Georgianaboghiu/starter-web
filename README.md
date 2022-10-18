@@ -12,4 +12,7 @@ lalala
 Adding new text here
 ajkdfhhjgfdgfdhs
 
+## HOW to contribute
+
+please fork this repository
 2022 Git.training
